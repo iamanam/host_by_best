@@ -1,0 +1,260 @@
+
+---Upload files---
+Widget file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/host_1
+Data file = D:\php\htdocs\Host_1/wp-content/uploads/2016/08/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "server-1.png" (Media)
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+------
+Completed AJAX call number: 22
+
+
+------
+Completed AJAX call number: 23
+
+
+------
+Completed AJAX call number: 24
+
+
+------
+Completed AJAX call number: 25
+
+
+------
+Completed AJAX call number: 26
+
+
+------
+Completed AJAX call number: 27
+
+
+------
+Completed AJAX call number: 28
+
+
+------
+Completed AJAX call number: 29
+
+
+------
+Completed AJAX call number: 30
+
+
+------
+Completed AJAX call number: 31
+
+
+------
+Completed AJAX call number: 32
+
+
+------
+Completed AJAX call number: 33
+
+
+------
+Completed AJAX call number: 34
+
+
+---Importing content---
+[WARNING] Failed to import "": Invalid post type 
+[WARNING] Could not find the post parent for "domains-bg2" (post #10054)
+[WARNING] Could not find the post parent for "dedicon" (post #10055)
+[WARNING] Could not find the post parent for "cludico" (post #10056)
+[WARNING] Could not find the post parent for "cludico2" (post #10058)
+[WARNING] Could not find the post parent for "blx-h-p01" (post #10059)
+[WARNING] Could not find the post parent for "blgimgrp1" (post #10060)
+[WARNING] Could not find the post parent for "blg-pg-blx2" (post #10061)
+[WARNING] Could not find the post parent for "easy-design-slider1p8" (post #10062)
+[WARNING] Could not find the post parent for "blx-h-p04a" (post #10073)
+[WARNING] Could not find the post parent for "blx-s-p12" (post #10074)
+[WARNING] Could not find the post parent for "shop16" (post #10075)
+[WARNING] Could not find the post parent for "shop4" (post #10076)
+[WARNING] Could not find the post parent for "shop10" (post #10077)
+[WARNING] Could not find the post parent for "shop8" (post #10078)
+[WARNING] Could not find the post parent for "shop21-2" (post #10079)
+[WARNING] Could not find the post parent for "221428-0014_2" (post #10080)
+[WARNING] Could not find the post parent for "shop18" (post #10081)
+[WARNING] Could not find the post parent for "shop20" (post #10082)
+[WARNING] Could not find the post parent for "shop2" (post #10083)
+[WARNING] Could not find the post parent for "shop6" (post #10084)
+[WARNING] Could not find the post parent for "tab-h2-domain2" (post #10085)
+[WARNING] Could not find the post parent for "tab-h2-host2" (post #10086)
+[WARNING] Could not find the post parent for "tab-h2-design2" (post #10087)
+[WARNING] Could not find the post parent for "tab-h2-seo2" (post #10088)
+[WARNING] Could not find the post parent for "tab-h2-domain3" (post #10089)
+[WARNING] Could not find the post parent for "drupal-cms-h" (post #10090)
+[WARNING] Could not find the post parent for "joomlal-cms-h" (post #10091)
+[WARNING] Could not find the post parent for "tab-h2-domain4" (post #10092)
+[WARNING] Could not find the post parent for "tab-h2-host3" (post #10093)
+[WARNING] Could not find the post parent for "tab-h2-design3" (post #10094)
+[WARNING] Could not find the post parent for "tab-h2-seo3" (post #10095)
+[WARNING] Could not find the post parent for "cms-w" (post #10096)
+[WARNING] Could not find the post parent for "cms-j" (post #10097)
+[WARNING] Could not find the post parent for "cms-d" (post #10098)
+[WARNING] Could not find the post parent for "03-450&#215;600-450&#215;600" (post #10099)
+[WARNING] Could not find the post parent for "08-450&#215;600-450&#215;600" (post #10100)
+[WARNING] Could not find the post parent for "517-450&#215;600-450&#215;600" (post #10101)
+[WARNING] Could not find the post parent for "1118-450&#215;600-450&#215;600" (post #10102)
+[WARNING] Could not find the post parent for "221160-0293_1" (post #10103)
+[WARNING] Could not find the post parent for "221428-0014_1" (post #10104)
+[WARNING] Could not find the post parent for "265519-0084_1" (post #10105)
+[WARNING] Could not find the post parent for "300891-0722_1" (post #10106)
+[WARNING] Could not find the post parent for "878618-0162_1" (post #10107)
+[WARNING] Could not find the post parent for "1218-450&#215;600-450&#215;600" (post #10108)
+[WARNING] Could not find the menu object for "" (post #9537)
+[WARNING] Could not find the menu object for "" (post #9538)
+[WARNING] Could not find the menu object for "" (post #9539)
+[WARNING] Could not find the menu object for "" (post #9540)
+[WARNING] Could not find the menu object for "" (post #9541)
+[WARNING] Could not find the menu object for "" (post #9542)
+[WARNING] Could not find the menu object for "" (post #9543)
+[WARNING] Could not find the menu object for "Domain" (post #9544)
+[WARNING] Could not find the menu object for "Both Sidebar" (post #9545)
+[WARNING] Could not find the menu object for "Full Width" (post #9546)
+[WARNING] Could not find the menu object for "Left Sidebar" (post #9547)
+[WARNING] Could not find the menu object for "Right Sidebar" (post #9548)
+[WARNING] Could not find the menu object for "Both Sidebar" (post #9549)
+[WARNING] Could not find the menu object for "Full Width" (post #9550)
+[WARNING] Could not find the menu object for "Left Sidebar" (post #9551)
+[WARNING] Could not find the menu object for "Right Sidebar" (post #9552)
+[WARNING] Could not find the menu object for "Both Sidebar" (post #9553)
+[WARNING] Could not find the menu object for "Full Width" (post #9554)
+[WARNING] Could not find the menu object for "Left Sidebar" (post #9555)
+[WARNING] Could not find the menu object for "Right Sidebar" (post #9556)
+[WARNING] Could not find the menu object for "Both Sidebar" (post #9557)
+[WARNING] Could not find the menu object for "Full Width" (post #9558)
+[WARNING] Could not find the menu object for "Left Sidebar" (post #9559)
+[WARNING] Could not find the menu object for "Right Sidebar" (post #9560)
+[WARNING] Could not find the menu object for "Both Sidebar" (post #9561)
+[WARNING] Could not find the menu object for "Full Width" (post #9562)
+[WARNING] Could not find the menu object for "Left Sidebar" (post #9563)
+[WARNING] Could not find the menu object for "Right Sidebar" (post #9564)
+[WARNING] Could not find the menu object for "" (post #9565)
+[WARNING] Could not find the menu object for "" (post #9566)
+[WARNING] Could not find the menu object for "Blog" (post #9567)
+[WARNING] Could not find the menu object for "" (post #9568)
+[WARNING] Could not find the menu object for "Coming Soon 1" (post #9569)
+[WARNING] Could not find the menu object for "" (post #9570)
+[WARNING] Could not find the menu object for "" (post #9571)
+[WARNING] Could not find the menu object for "" (post #9572)
+[WARNING] Could not find the menu object for "" (post #9573)
+[WARNING] Could not find the menu object for "" (post #9574)
+[WARNING] Could not find the menu object for "Home WHMCS" (post #9575)
+[WARNING] Could not find the menu object for "" (post #9576)
+[WARNING] Could not find the menu object for "Pricing" (post #9577)
+[WARNING] Could not find the menu object for "Support" (post #9578)
+[WARNING] Could not find the menu object for "" (post #9579)
+[WARNING] Could not find the menu object for "Home" (post #9580)
+[WARNING] Could not find the menu object for "Domain" (post #9582)
+[WARNING] Could not find the menu object for "Whmcs" (post #9583)
+[WARNING] Could not find the menu object for "Coming Soon" (post #9584)
+[WARNING] Could not find the menu object for "" (post #9585)
+[WARNING] Could not find the menu object for "" (post #9586)
+[WARNING] Could not find the menu object for "" (post #9587)
+[WARNING] Could not find the menu object for "" (post #9588)
+[WARNING] Could not find the menu object for "" (post #9589)
+[WARNING] Could not find the menu object for "" (post #9590)
+[WARNING] Could not find the menu object for "" (post #9591)
+[WARNING] Could not find the menu object for "" (post #9592)
+[WARNING] Could not find the menu object for "" (post #9593)
+[WARNING] Could not find the menu object for "Postshow1 Style" (post #9594)
+[WARNING] Could not find the menu object for "Standard Post Style" (post #9595)
+[WARNING] Could not find the menu object for "Postshow2 Style" (post #9596)
+
+Max execution time after content import = 300
